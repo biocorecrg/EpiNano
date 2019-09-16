@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 import sys
 from collections import defaultdict
 from collections import OrderedDict
