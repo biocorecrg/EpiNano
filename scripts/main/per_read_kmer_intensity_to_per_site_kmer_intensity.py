@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python2
 import sys
 from collections import defaultdict
 from collections import OrderedDict
